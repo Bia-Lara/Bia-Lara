@@ -1,6 +1,6 @@
 # Olá! Eu sou a Ana Beatriz 👋
 
-   ```Fique à vontade para ver meus projetos e minha evolução e dar feedbacks! ```
+  **Fique à vontade para ver meus projetos e minha evolução e dar feedbacks!**
 
 ### 📱 Contato
 
